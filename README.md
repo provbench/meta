@@ -5,7 +5,7 @@ PROV Bench is a collection of PROV datasets and accompanying queries. These benc
 On GitHub:
 
 * [provbench user](https://github.com/provbench?tab=repositories), the initial collection, "by value" in git repositories.
-* [provbenchers organization](https://github.com/provbenchers), the extended collection of "by value" git repositories (with better grouhp permissions management).
+* [provbenchers organization](https://github.com/provbenchers), the extended collection of "by value" git repositories (with better group permissions management).
 
 On datahub.io:
 
