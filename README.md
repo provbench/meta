@@ -1,4 +1,4 @@
-PROV Bench is a collection of PROV datasets and accompanying queries.
+PROV Bench is a collection of PROV datasets and accompanying queries. These benchmarks can be used to develop and compare different techniques for provenance application.
 
 * [provbench user](https://github.com/provbench?tab=repositories), the initial collection, "by value" in git repositories.
 * [provbenchers organization](https://github.com/provbenchers), the extended collection of "by value" git repositories (with better grouhp permissions management).
