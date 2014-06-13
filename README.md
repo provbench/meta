@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/provbench/meta/master/doc/figures/provbench-border.png" width="300 px"/>
+<img src="https://raw.githubusercontent.com/provbench/meta/master/doc/figures/provbench-border.png" width="100 px"/>
 
 PROV Bench is a collection of PROV datasets and accompanying queries. These benchmarks can be used to develop and compare different techniques for provenance application. The list of benchmarks appears in the following areas:
 
